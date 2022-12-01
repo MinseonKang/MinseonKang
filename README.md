@@ -16,4 +16,8 @@
 		<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 			<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+![MinseonKang stats](https://github-readme-stats.vercel.app/api?username=MinseonKang&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseonKang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
